@@ -1,5 +1,5 @@
 # culpa sentiment
-by [Woojin Kim](http://woojink.com), [José Daniel Ramirez Soto](https://github.com/jdramirez), & Manuel Rueda
+by [Woojin Kim](http://woojink.com), [José Daniel Ramirez Soto](https://github.com/jdramirez), & Manuel Rueda at [DevFest 2016](http://devfe.st/)
 
 culpa sentiment performs sentiment analysis on the reviews posted on [CULPA](http://culpa.info/) to give users a quick summary of the many reviews for the courses at Columbia University. See it live here: http://woojink.github.io/culpa_sentiment/
 
