@@ -1,7 +1,7 @@
 # culpa sentiment
 by [Woojin Kim](http://woojink.com), [José Daniel Ramirez Soto](https://github.com/jdramirez), & Manuel Rueda
 
-culpa sentiment performs sentiment analysis on the reviews posted on [CULPA](http://culpa.info/) to give users a quick summary of the many reviews for the courses at Columbia University.
+culpa sentiment performs sentiment analysis on the reviews posted on [CULPA](http://culpa.info/) to give users a quick summary of the many reviews for the courses at Columbia University. See it live here: http://woojink.github.io/culpa_sentiment/
 
 ## Inspiration
 CULPA has a lot more useful information about the courses and the professors at Columbia than any other resource, but the amount of text of some of the courses/professors makes it overwhelming to get a quick overview for course selection. We wanted to make this better.
