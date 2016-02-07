@@ -1,0 +1,382 @@
+{
+  "departments": [
+    {
+      "avg": 0.016856624521739,
+      "nickname": "comp sci",
+      "id": 7,
+      "name": "Computer Science"
+    },
+    {
+      "avg": 0,
+      "nickname": "spanish + portu",
+      "id": 25,
+      "name": "Spanish and Portuguese"
+    },
+    {
+      "avg": 0,
+      "nickname": "history",
+      "id": 1,
+      "name": "History"
+    },
+    {
+      "avg": 0,
+      "nickname": "phys therapy",
+      "id": 115,
+      "name": "Physical Therapy"
+    },
+    {
+      "avg": 0,
+      "nickname": "latino studies",
+      "id": 37,
+      "name": "Latino Studies"
+    },
+    {
+      "avg": 0,
+      "nickname": "poli sci",
+      "id": 21,
+      "name": "Political Science"
+    },
+    {
+      "avg": 0,
+      "nickname": "statistics",
+      "id": 31,
+      "name": "Statistics"
+    },
+    {
+      "avg": 0,
+      "nickname": "eee",
+      "id": 106,
+      "name": "Earth and Environmental Engineering"
+    },
+    {
+      "avg": 0,
+      "nickname": "theater",
+      "id": 35,
+      "name": "Theater"
+    },
+    {
+      "avg": 0,
+      "nickname": "mesaas",
+      "id": 16,
+      "name": "Middle Eastern,   South Asian,   and African Studies"
+    },
+    {
+      "avg": 0,
+      "nickname": "as-am studies",
+      "id": 38,
+      "name": "Asian American Studies"
+    },
+    {
+      "avg": 0,
+      "nickname": "speech",
+      "id": 62,
+      "name": "Speech"
+    },
+    {
+      "avg": 0,
+      "nickname": "app physics + math",
+      "id": 63,
+      "name": "Applied Physics and Applied Mathematics"
+    },
+    {
+      "avg": 0,
+      "nickname": "civil eng",
+      "id": 53,
+      "name": "Civil Engineering"
+    },
+    {
+      "avg": 0,
+      "nickname": "astronomy",
+      "id": 44,
+      "name": "Astronomy"
+    },
+    {
+      "avg": 0,
+      "nickname": "law",
+      "id": 71,
+      "name": "Law School"
+    },
+    {
+      "avg": 0,
+      "nickname": "human rights",
+      "id": 68,
+      "name": "Human Rights"
+    },
+    {
+      "avg": 0,
+      "nickname": "philosophy",
+      "id": 19,
+      "name": "Philosophy"
+    },
+    {
+      "avg": 0,
+      "nickname": "art history",
+      "id": 41,
+      "name": "Art History"
+    },
+    {
+      "avg": 0,
+      "nickname": "continuing ed",
+      "id": 112,
+      "name": "Continuing Education"
+    },
+    {
+      "avg": 0,
+      "nickname": "dance",
+      "id": 49,
+      "name": "Dance"
+    },
+    {
+      "avg": 0,
+      "nickname": "ieor",
+      "id": 57,
+      "name": "Industrial Engineering and Operations Research"
+    },
+    {
+      "avg": 0,
+      "nickname": "mech eng",
+      "id": 69,
+      "name": "Mechanical Engineering"
+    },
+    {
+      "avg": 0,
+      "nickname": "economics",
+      "id": 9,
+      "name": "Economics"
+    },
+    {
+      "avg": 0,
+      "nickname": "business",
+      "id": 56,
+      "name": "Business"
+    },
+    {
+      "avg": 0,
+      "nickname": "eeeb",
+      "id": 70,
+      "name": "Ecology,   Evolution,   and Environmental Biology"
+    },
+    {
+      "avg": 0,
+      "nickname": "women's studies",
+      "id": 36,
+      "name": "Women's Studies"
+    },
+    {
+      "avg": 0,
+      "nickname": "ealac",
+      "id": 8,
+      "name": "East-Asian Languages and Cultures"
+    },
+    {
+      "avg": 0,
+      "nickname": "film",
+      "id": 11,
+      "name": "Film"
+    },
+    {
+      "avg": 0,
+      "nickname": "french",
+      "id": 12,
+      "name": "French"
+    },
+    {
+      "avg": 0,
+      "nickname": "physics",
+      "id": 20,
+      "name": "Physics"
+    },
+    {
+      "avg": 0,
+      "nickname": "underwater bw",
+      "id": 66,
+      "name": "Underwater Basket Weaving"
+    },
+    {
+      "avg": 0,
+      "nickname": "sus dev",
+      "id": 114,
+      "name": "Sustainable Development"
+    },
+    {
+      "avg": 0,
+      "nickname": "math",
+      "id": 15,
+      "name": "Mathematics"
+    },
+    {
+      "avg": 0,
+      "nickname": "education",
+      "id": 58,
+      "name": "Education"
+    },
+    {
+      "avg": 0,
+      "nickname": "af-am studies",
+      "id": 3,
+      "name": "African American Studies"
+    },
+    {
+      "avg": 0,
+      "nickname": "psych",
+      "id": 22,
+      "name": "Psychology"
+    },
+    {
+      "avg": 0,
+      "nickname": "germanic lang + lit",
+      "id": 30,
+      "name": "Germanic Languages and Literature "
+    },
+    {
+      "avg": 0,
+      "nickname": "electrical eng",
+      "id": 48,
+      "name": "Electrical Engineering"
+    },
+    {
+      "avg": 0,
+      "nickname": "archaeology",
+      "id": 61,
+      "name": "Archaeology"
+    },
+    {
+      "avg": 0,
+      "nickname": "sociology",
+      "id": 24,
+      "name": "Sociology"
+    },
+    {
+      "avg": 0,
+      "nickname": "ethnic studies",
+      "id": 81,
+      "name": "Center for Study of Ethnicity and Race"
+    },
+    {
+      "avg": 0,
+      "nickname": "journalism",
+      "id": 111,
+      "name": "School of Journalism"
+    },
+    {
+      "avg": 0,
+      "nickname": "physed",
+      "id": 50,
+      "name": "Physical Education"
+    },
+    {
+      "avg": 0,
+      "nickname": "bio + biomed eng",
+      "id": 28,
+      "name": "Biology & Biomedical Engineering"
+    },
+    {
+      "avg": 0,
+      "nickname": "swedish",
+      "id": 34,
+      "name": "Swedish"
+    },
+    {
+      "avg": 0,
+      "nickname": "italian",
+      "id": 13,
+      "name": "Italian"
+    },
+    {
+      "avg": 0,
+      "nickname": "fys",
+      "id": 109,
+      "name": "First-Year Seminars"
+    },
+    {
+      "avg": 0,
+      "nickname": "architecture",
+      "id": 45,
+      "name": "Architecture"
+    },
+    {
+      "avg": 0,
+      "nickname": "anthropology",
+      "id": 4,
+      "name": "Anthropology"
+    },
+    {
+      "avg": 0,
+      "nickname": "chem + chem eng",
+      "id": 42,
+      "name": "Chemistry and Chemical Engineering"
+    },
+    {
+      "avg": 0,
+      "nickname": "writing",
+      "id": 40,
+      "name": "Writing"
+    },
+    {
+      "avg": 0,
+      "nickname": "classics",
+      "id": 29,
+      "name": "Classics"
+    },
+    {
+      "avg": 0,
+      "nickname": "slavic languages",
+      "id": 46,
+      "name": "Slavic Languages"
+    },
+    {
+      "avg": 0,
+      "nickname": "medicine",
+      "id": 43,
+      "name": "Medicine"
+    },
+    {
+      "avg": 0,
+      "nickname": "am studies",
+      "id": 110,
+      "name": "American Studies"
+    },
+    {
+      "avg": 0,
+      "nickname": "urban studies",
+      "id": 26,
+      "name": "Urban Studies"
+    },
+    {
+      "avg": 0,
+      "nickname": "SIPA",
+      "id": 92,
+      "name": "School of International & Public Affairs"
+    },
+    {
+      "avg": 0,
+      "nickname": "religion",
+      "id": 23,
+      "name": "Religion"
+    },
+    {
+      "avg": 0,
+      "nickname": "music",
+      "id": 17,
+      "name": "Music"
+    },
+    {
+      "avg": 0,
+      "nickname": "english + comp lit",
+      "id": 10,
+      "name": "English and Comparative Literature"
+    },
+    {
+      "avg": 0,
+      "nickname": "visual arts",
+      "id": 27,
+      "name": "Visual Arts"
+    },
+    {
+      "avg": 0,
+      "nickname": "ees",
+      "id": 52,
+      "name": "Earth and Environmental Science"
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+	"reviews": [
+    {
+        "sentiment":  "Negative",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  -0.124724,
+         "professor_id":  515,
+         "date":  "23-05-2014",
+         "keywords":  ["vocab terms", "programming projects", "Vagrant VirtualBox", "TAs", "grade reports", "COMS W1004 students", "TA", "problem sets", "cover various aspects", "extra credit portions", "grade report", "multiple choice", "TA office", "programming background", "class", "high school", "past reviewers", "learning curve", "recent assignment", "AP Computer Science", "brief summary", "assignment grades", "good deal", "technical class", "major rut", "duller aspects", "best bet", "Professor Cannon", "exam content", "last-minute change", "ambitious task", "inane reasons", "good job", "entire army", "major complaint", "clear outline", "academic career", "reply email", "good sense", "science interesting", "detailed explanation", "help room", "time varies", "midterm terms", "midterm exam", "lower score", "best person", "points", "lectures", "CyberDuck"],
+         "course_id":  3807,
+         "id":  29556  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.318525,
+         "professor_id":  515,
+         "date":  "03-05-2014",
+         "keywords":  ["Big Java book", "programming assignments", "important concepts.6 problem", "memorization", "best way", "unnecessary information", "tough time", "trashy jokes", "time consuming", "programming component", "simple principles", "unnecessary questions", "conceptual component", "data type", "programming examples", "object-oriented programming", "silly things", "Discrete Math", "lectures", "science classes", "midterm", "Cannon", "instance", "TAs", "experience", "office", "people", "size", "grade", "charge", "spaces"],
+         "course_id":  3807,
+         "id":  29398  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.0741932,
+         "professor_id":  515,
+         "date":  "19-01-2012",
+         "keywords":  ["slightest bit", "programming/Computer Science", "good number", "great lecturer", "LOT.Programming Project", "Problem Set", "introductory classes", "intro. classes", "TAs", "Cannon", "python", "midterm", "Java", "vocab", "TA", "tutor", "mid-semester", "wall", "students", "life", "importance", "improvement"],
+         "course_id":  3807,
+         "id":  26971  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Discrete Mathematics",
+         "score":  0.165835,
+         "professor_id":  515,
+         "date":  "24-05-2011",
+         "keywords":  ["angry bridge troll", "primarily positive person", "class", "social work building", "positive review_.I donÛªt", "Mr. Gelman", "unrecognizable glop", "HORROR_  Abandon", "class about_.", "slightest clue", "fine line", "class description", "science class", "doesnÛªt care", "illustrative examples", "statistics class", "deaf ears", "IdiotÛªs Guide", "straightforward way", "meager few points", "individual phrases", "simple concept", "weekly homeworks", "partial credit", "intense code", "unusual form", "blood pressure", "excessive joy", "positive comments", "Sisyphus", "material", "ye", "rules", "job", "thatÛªs", "hyperbole", "shins", "Yep", "cuz", "Kafka", "GALL", "analogy", "rock", "hill", "people", "complaints", "tragedy", "torture", "watch", "comedy_you"],
+         "course_id":  397,
+         "id":  26175  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Introduction to Computers",
+         "score":  0.313638,
+         "professor_id":  515,
+         "date":  "24-11-2009",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  1138,
+         "id":  23358  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.511309,
+         "professor_id":  515,
+         "date":  "17-12-2008",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  21801  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Discrete Mathematics",
+         "score":  0.271432,
+         "professor_id":  515,
+         "date":  "24-05-2003",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  397,
+         "id":  5873  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Discrete Mathematics",
+         "score":  0.142658,
+         "professor_id":  515,
+         "date":  "19-05-2011",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  397,
+         "id":  26117  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Discrete Mathematics",
+         "score":  0.0839419,
+         "professor_id":  515,
+         "date":  "17-05-2011",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  397,
+         "id":  26087  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Introduction to Computers",
+         "score":  0.276711,
+         "professor_id":  515,
+         "date":  "19-06-2002",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  1138,
+         "id":  2902  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Introduction to Computers",
+         "score":  0.0911363,
+         "professor_id":  515,
+         "date":  "23-06-2009",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  1138,
+         "id":  22983  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Introduction to Computers",
+         "score":  0.310754,
+         "professor_id":  515,
+         "date":  "16-05-2009",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  1138,
+         "id":  22785  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Introduction to Computers",
+         "score":  0.426542,
+         "professor_id":  515,
+         "date":  "17-01-2009",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  1138,
+         "id":  22265  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.417623,
+         "professor_id":  515,
+         "date":  "30-12-2004",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  10394  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Scientific Computation I",
+         "score":  -0.0920003,
+         "professor_id":  515,
+         "date":  "25-02-2003",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  861,
+         "id":  4783  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.466526,
+         "professor_id":  515,
+         "date":  "27-05-2002",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  2804  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.894589,
+         "professor_id":  515,
+         "date":  "13-12-2004",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  9922  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.305556,
+         "professor_id":  515,
+         "date":  "07-06-2004",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  9068  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.296567,
+         "professor_id":  515,
+         "date":  "29-12-2003",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  7448  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.371853,
+         "professor_id":  515,
+         "date":  "30-03-2006",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  14364  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.383064,
+         "professor_id":  515,
+         "date":  "01-01-2005",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  10559  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.387298,
+         "professor_id":  515,
+         "date":  "25-01-2005",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  11416  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.112449,
+         "professor_id":  515,
+         "date":  "22-05-2005",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  12251  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.267107,
+         "professor_id":  515,
+         "date":  "11-12-2007",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  20556  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Introduction to Computers",
+         "score":  0.460088,
+         "professor_id":  515,
+         "date":  "25-05-2002",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  1138,
+         "id":  2797  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.460784,
+         "professor_id":  515,
+         "date":  "15-11-2009",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  23289  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  -0.218632,
+         "professor_id":  515,
+         "date":  "11-01-2009",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  22185  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.39467,
+         "professor_id":  515,
+         "date":  "06-04-2001",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  972  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.226451,
+         "professor_id":  515,
+         "date":  "05-04-2011",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  25698  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.536821,
+         "professor_id":  515,
+         "date":  "25-01-2011",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  25601  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.187036,
+         "professor_id":  515,
+         "date":  "28-12-2010",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  25261  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.192497,
+         "professor_id":  515,
+         "date":  "01-01-2000",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  820  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.238001,
+         "professor_id":  515,
+         "date":  "29-01-2012",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  27008  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.588545,
+         "professor_id":  515,
+         "date":  "26-12-2011",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  26744  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  -0.0179256,
+         "professor_id":  515,
+         "date":  "07-01-2015",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  78264  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.501278,
+         "professor_id":  515,
+         "date":  "21-05-2014",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  29519  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.227521,
+         "professor_id":  515,
+         "date":  "15-01-2014",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  29145  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  -0.196799,
+         "professor_id":  515,
+         "date":  "20-12-2014",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  73898  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Introduction to Computer Science for Engineers/Applied Scientists - Python",
+         "score":  -0.51351,
+         "professor_id":  515,
+         "date":  "31-03-2014",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  6732,
+         "id":  29290  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Discrete Mathematics",
+         "score":  0.059917,
+         "professor_id":  515,
+         "date":  "12-05-2011",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  397,
+         "id":  25959  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Discrete Mathematics",
+         "score":  0.00773482,
+         "professor_id":  515,
+         "date":  "21-05-2003",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  397,
+         "id":  5825  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.0233701,
+         "professor_id":  515,
+         "date":  "04-01-2004",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  7520  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.360251,
+         "professor_id":  515,
+         "date":  "12-03-2003",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  4861  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Introduction to Computers",
+         "score":  0.0709541,
+         "professor_id":  515,
+         "date":  "21-02-2002",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  1138,
+         "id":  2083  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  0.640837,
+         "professor_id":  515,
+         "date":  "04-02-2002",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  2029  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  -0.470204,
+         "professor_id":  515,
+         "date":  "20-08-2009",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  23082  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Object-Oriented Programming and Design in Java",
+         "score":  -0.309222,
+         "professor_id":  515,
+         "date":  "02-02-2007",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  2906,
+         "id":  18380  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  -0.0887409,
+         "professor_id":  515,
+         "date":  "08-12-2003",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  7019  
+  },
+     {
+        "sentiment":  "Negative",
+         "course_name":  "Intro to Information Science",
+         "score":  -0.23577,
+         "professor_id":  515,
+         "date":  "06-01-2012",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  6079,
+         "id":  26839  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.355077,
+         "professor_id":  515,
+         "date":  "22-12-2011",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  26685  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.479342,
+         "professor_id":  515,
+         "date":  "20-01-2011",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  3807,
+         "id":  25578  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.221272,
+         "professor_id":  515,
+         "date":  "23-12-2010",
+         "keywords":  ["Big Java book", "programming assignments", "important concepts.6 problem", "memorization", "best way", "unnecessary information", "tough time", "trashy jokes", "time consuming", "programming component", "simple principles", "unnecessary questions", "conceptual component", "data type", "programming examples", "object-oriented programming", "silly things", "Discrete Math", "lectures", "science classes", "midterm", "Cannon", "instance", "TAs", "experience", "office", "people", "size", "grade", "charge", "spaces"],
+         "course_id":  3807,
+         "id":  25165  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.0141003,
+         "professor_id":  515,
+         "date":  "26-12-2013",
+         "keywords":  ["slightest bit", "programming/Computer Science", "good number", "great lecturer", "LOT.Programming Project", "Problem Set", "introductory classes", "intro. classes", "TAs", "Cannon", "python", "midterm", "Java", "vocab", "TA", "tutor", "mid-semester", "wall", "students", "life", "importance", "improvement"],
+         "course_id":  3807,
+         "id":  28972 
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.403514,
+         "professor_id":  515,
+         "date":  "29-05-2013",
+         "keywords":  ["prior knowledge", "decent lecturer", "CS friend", "course", "added incentive", "different version", "problem sets", "little bit", "programming projects", "Cannon", "programming project", "class", "work", "office", "questions", "conclusion", "semester", "cracks", "Piazza", "contrast", "reviewers", "ASAP", "experience", "science", "textbooks", "challenge", "times", "terms", "jokes", "lectures", "reading", "personality", "students", "help", "Midterm", "concepts", "examples", "grade", "time", "online", "board"],
+         "course_id":  3807,
+         "id":  28476  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Intro to Computer Science- Programming in Java",
+         "score":  0.16672,
+         "professor_id":  515,
+         "date":  "12-04-2012",
+         "keywords":  ["angry bridge troll", "primarily positive person", "class", "social work building", "positive review_.I donÛªt", "Mr. Gelman", "unrecognizable glop", "HORROR_  Abandon", "class about_.", "slightest clue", "fine line", "class description", "science class", "doesnÛªt care", "illustrative examples", "statistics class", "deaf ears", "IdiotÛªs Guide", "straightforward way", "meager few points", "individual phrases", "simple concept", "weekly homeworks", "partial credit", "intense code", "unusual form", "blood pressure", "excessive joy", "positive comments", "Sisyphus", "material", "ye", "rules", "job", "thatÛªs", "hyperbole", "shins", "Yep", "cuz", "Kafka", "GALL", "analogy", "rock", "hill", "people", "complaints", "tragedy", "torture", "watch", "comedy_you"],
+         "course_id":  3807,
+         "id":  27128  
+  },
+     {
+        "sentiment":  "Positive",
+         "course_name":  "Introduction to Computer Science for Engineers/Applied Scientists - Python",
+         "score":  0.19251,
+         "professor_id":  515,
+         "date":  "13-01-2014",
+         "keywords":  ["book-supplied PowerPoints", "robotic", "Stats Reasoning", "sample problems", "Email responses", "stuck teaching", "difficult concepts", "group project", "new material", "final grade", "problem sets", "worst class", "Intro", "woman", "midterms", "semesters", "fault", "Stands", "questions", "board", "time", "chapters", "chapter", "classes", "review"],
+         "course_id":  6732,
+         "id":  29124  
+  }
+]}

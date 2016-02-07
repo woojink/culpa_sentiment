@@ -1,0 +1,126 @@
+/*************************************************/
+/***************  culpa sentiment  ***************/
+/* General */
+body {
+  font-family: "Georgia", serif;
+}
+small {
+  color: grey;
+}
+.container {
+  margin-bottom: 50px;
+}
+.page-header {
+  margin-top: 10px;
+}
+
+/*************************************************/
+/* Front Page */
+.node {
+  stroke: #323232;
+  stroke-width: 0px;
+  opacity: 0.8;
+}
+.site-description {
+  font-size: 1.2em;
+}
+.source {
+  display: block;
+  margin: 0 auto;
+}
+
+/*************************************************/
+/* university.html &  department.html */
+.sentiment_score {
+  margin-left: 5px;
+}
+
+/*************************************************/
+/* Miscellaneous */
+div.tooltip {
+  position: absolute;
+  visibility: hidden;
+  font-size: 75%;
+  color: #333333;
+  background-color: #e6e6e6;
+  opacity: .98;
+  padding: 5px;
+}
+.review-row {
+  margin-left: 5px;
+}
+.search-bar-group {
+  margin-top: 15px;
+}
+
+/*************************************************/
+/* Link divs */
+.main-title {
+  font-size: 5em;
+}
+.main-title a:link {
+  color: #000;
+  text-decoration: none;
+}
+.main-title a:visited {
+  color: #000;
+  text-decoration: none;
+}
+.main-title a:hover {
+  color: #000;
+  text-decoration: none;
+}
+.main-title a:active {
+  color: #000;
+}
+
+.department-name {
+  font-size: 1.5em;
+}
+.department-name a:link {
+  color: #000;
+  text-decoration: none;
+}
+.department-name a:visited {
+  color: #000;
+  text-decoration: none;
+}
+.department-name a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+.department-name a:active {
+  color: #000;
+}
+
+.professor-name a:link {
+  color: #000;
+  text-decoration: none;
+}
+.professor-name a:visited {
+  color: #000;
+  text-decoration: none;
+}
+.professor-name a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+.professor-name a:active {
+  color: #000;
+}
+
+.course-name a:link {
+  color: #000;
+  text-decoration: none;
+}
+.course-name a:visited {
+  color: #000;
+  text-decoration: none;
+}
+.course-name a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+.course-name a:active {
+  color: #000;
+}

@@ -1,0 +1,432 @@
+
+
+{
+  "courses": [
+  	{
+      "course_number": "COMS W1004",
+      "id": 3807,
+      "name": "Intro to Computer Science- Programming in Java"
+    },
+    {
+      "course_number": "COMS W3134",
+      "id": 4,
+      "name": "Data Structures in Java"
+    },
+    {
+      "course_number": "COMS W1005",
+      "id": 22,
+      "name": "Introduction to computer programming (Fortran)"
+    },
+    {
+      "course_number": "COMS W4701",
+      "id": 26,
+      "name": "Artificial Intelligence"
+    },
+    {
+      "course_number": "CSEE W3826",
+      "id": 27,
+      "name": "Fundamentals of Computer Organization"
+    },
+    {
+      "course_number": "COMS W3261",
+      "id": 234,
+      "name": "Computer Science Theory:  Computability - Models - Computation"
+    },
+    {
+      "course_number": "COMS W3823",
+      "id": 238,
+      "name": "Digital Logic"
+    },
+    {
+      "course_number": "COMS W4205",
+      "id": 256,
+      "name": "Combinatorial Theory"
+    },
+    {
+      "course_number": "COMS W3203",
+      "id": 397,
+      "name": "Discrete Mathematics"
+    },
+    {
+      "course_number": "COMS W4236",
+      "id": 462,
+      "name": "Introduction to Computational Complexity"
+    },
+    {
+      "course_number": "COMS W3156",
+      "id": 605,
+      "name": "Introduction to Software Engineering"
+    },
+    {
+      "course_number": "COMS E6831",
+      "id": 639,
+      "name": "Sequential Logic Circuit"
+    },
+    {
+      "course_number": "COMS W4170",
+      "id": 663,
+      "name": "User Interface Design"
+    },
+    {
+      "course_number": "COMS W4111",
+      "id": 664,
+      "name": "Introduction to Databases"
+    },
+    {
+      "course_number": "COMS W3210",
+      "id": 861,
+      "name": "Scientific Computation I"
+    },
+    {
+      "course_number": "COMS W3101",
+      "id": 885,
+      "name": "Programming Languages:  C++"
+    },
+    {
+      "course_number": "COMS W1009",
+      "id": 995,
+      "name": "Honors Introduction to Computer Science (Java)"
+    },
+    {
+      "course_number": "COMS W1001",
+      "id": 1138,
+      "name": "Introduction to Computers"
+    },
+    {
+      "course_number": "MUSI V2205",
+      "id": 1335,
+      "name": "MIDI Music Production"
+    },
+    {
+      "course_number": "COMS W4156",
+      "id": 1616,
+      "name": "Advanced Software Engineering"
+    },
+    {
+      "course_number": "COMS W3137",
+      "id": 1622,
+      "name": "Data Structures and Algorithms"
+    },
+    {
+      "course_number": null,
+      "id": 1654,
+      "name": "Java"
+    },
+    {
+      "course_number": "COMS W3101",
+      "id": 1748,
+      "name": "Programming Languages:  C#"
+    },
+    {
+      "course_number": "COMS W4771",
+      "id": 1921,
+      "name": "Machine Learning"
+    },
+    {
+      "course_number": "CBMF W4761",
+      "id": 1967,
+      "name": "Computational Genomics"
+    },
+    {
+      "course_number": "COMS W3139",
+      "id": 2006,
+      "name": "Honors Data Structures and Algorithms"
+    },
+    {
+      "course_number": "COMS W3133",
+      "id": 2008,
+      "name": "Data Structures in C"
+    },
+    {
+      "course_number": "COMS W4252",
+      "id": 2287,
+      "name": "Introduction to Computational Learning Theory"
+    },
+    {
+      "course_number": "COMS W4118",
+      "id": 2384,
+      "name": "Operating Systems I"
+    },
+    {
+      "course_number": "COMS W4731",
+      "id": 2386,
+      "name": "Computer Vision"
+    },
+    {
+      "course_number": "COMS W4444",
+      "id": 2387,
+      "name": "Programming & Problem Solving"
+    },
+    {
+      "course_number": "COMS W4180",
+      "id": 2401,
+      "name": "Network Security"
+    },
+    {
+      "course_number": "COMS W4733",
+      "id": 2403,
+      "name": "Computational Aspects of Robotics"
+    },
+    {
+      "course_number": "COMS E6181",
+      "id": 2485,
+      "name": "Advanced Internet Services"
+    },
+    {
+      "course_number": "COMS W1003",
+      "id": 2598,
+      "name": "Intro to Computer Science- Programming in C"
+    },
+    {
+      "course_number": "COMS W4160",
+      "id": 2634,
+      "name": "Computer Graphics"
+    },
+    {
+      "course_number": "E6998",
+      "id": 2746,
+      "name": "Advanced Topics in Image-Based Rendering"
+    },
+    {
+      "course_number": "COMS E6998",
+      "id": 2767,
+      "name": "Topics in Computer Science:  Computational Aspects of Geometric Design"
+    },
+    {
+      "course_number": "CSEE E6717",
+      "id": 2830,
+      "name": "Information Theory"
+    },
+    {
+      "course_number": "COMS E6261",
+      "id": 2867,
+      "name": "Advanced Cryptography"
+    },
+    {
+      "course_number": "COMS E6125",
+      "id": 2869,
+      "name": "Web-Enhanced Information Management"
+    },
+    {
+      "course_number": "COMS W4001",
+      "id": 2943,
+      "name": "Introduction to Biomedical Informatics"
+    },
+    {
+      "course_number": "COMS W4261",
+      "id": 2970,
+      "name": "Introduction to Cryptography"
+    },
+    {
+      "course_number": "COMS W4115",
+      "id": 3105,
+      "name": "Programming Languages and Translators"
+    },
+    {
+      "course_number": "COMS W3251",
+      "id": 3992,
+      "name": "Computational Linear Algebra"
+    },
+    {
+      "course_number": "COMS W3101",
+      "id": 4027,
+      "name": "Programming Languages:  Java"
+    },
+    {
+      "course_number": "COMS W4231",
+      "id": 4079,
+      "name": "Analysis of Algorithms I"
+    },
+    {
+      "course_number": "CSEE W3827",
+      "id": 4251,
+      "name": "Fundamentals of Computer Systems"
+    },
+    {
+      "course_number": "COMS W3157",
+      "id": 4758,
+      "name": "Advanced Programming"
+    },
+    {
+      "course_number": "COMS W4995",
+      "id": 4899,
+      "name": "Topics in Computer Science:  Video Game Design and Production"
+    },
+    {
+      "course_number": "COMS W4119",
+      "id": 4900,
+      "name": "Compilers"
+    },
+    {
+      "course_number": "COMS W4203",
+      "id": 4901,
+      "name": "Graph Theory"
+    },
+    {
+      "course_number": "CSEE W4119",
+      "id": 4902,
+      "name": "Computer Networks"
+    },
+    {
+      "course_number": "COMS W4705",
+      "id": 4903,
+      "name": "Natural Language Processing"
+    },
+    {
+      "course_number": "COMS W4187",
+      "id": 4907,
+      "name": "Security Architecture & Engineering"
+    },
+    {
+      "course_number": "COMS E6111",
+      "id": 4956,
+      "name": "Advanced Database Systems"
+    },
+    {
+      "course_number": "COMS W1005",
+      "id": 4957,
+      "name": "Intro to Computer Science- Programming in MATLAB"
+    },
+    {
+      "course_number": "COMS W3101",
+      "id": 5002,
+      "name": "Programming Languages:  MATLAB"
+    },
+    {
+      "course_number": "COMS W4706",
+      "id": 5041,
+      "name": "Spoken Language Processing"
+    },
+    {
+      "course_number": "COMS W4737",
+      "id": 5150,
+      "name": "Biometrics"
+    },
+    {
+      "course_number": "COMS W4995",
+      "id": 5167,
+      "name": "Topics in Computer Science:  VoIP Security"
+    },
+    {
+      "course_number": "COMS W4995-1",
+      "id": 5366,
+      "name": "C++prog For Derviatives Pricing"
+    },
+    {
+      "course_number": "CSEE W4824-1",
+      "id": 5392,
+      "name": "Computer Architecture"
+    },
+    {
+      "course_number": "COMS W3101",
+      "id": 5519,
+      "name": "Programming Languages:  Python"
+    },
+    {
+      "course_number": "COMS W4205",
+      "id": 5544,
+      "name": "Combinatorial Theory"
+    },
+    {
+      "course_number": "COMS W3101",
+      "id": 5638,
+      "name": "Programming Languages:  Java Scripting Languages"
+    },
+    {
+      "course_number": "COMS E6998",
+      "id": 5794,
+      "name": "Topics in Computer Science:  Machine Translation"
+    },
+    {
+      "course_number": "COMS W4995",
+      "id": 5890,
+      "name": "Topics in Computer Science:  Intro to the Semantic Web"
+    },
+    {
+      "course_number": "COMS E6998",
+      "id": 5902,
+      "name": "Topics in Computer Science:  Machine Learning for NLP"
+    },
+    {
+      "course_number": "COMS W4281",
+      "id": 5922,
+      "name": "Introduction to Quantum Computing"
+    },
+    {
+      "course_number": "COMS 4130",
+      "id": 6026,
+      "name": "Principles and Practices of Parallel Programming"
+    },
+    {
+      "course_number": "CSEE 4823",
+      "id": 6038,
+      "name": "Advanced Logic Design"
+    },
+    {
+      "course_number": "COMS W1001",
+      "id": 6079,
+      "name": "Intro to Information Science"
+    },
+    {
+      "course_number": "COMS E6995",
+      "id": 6152,
+      "name": "Topics in Computer Science:  Computational Approaches to Emotional Speech"
+    },
+    {
+      "course_number": "W3101",
+      "id": 6362,
+      "name": "Ruby On Rails"
+    },
+    {
+      "course_number": "COMSE6998",
+      "id": 6511,
+      "name": "Cloud Computing"
+    },
+    {
+      "course_number": "COMS W4167",
+      "id": 6676,
+      "name": "Computer Animation"
+    },
+    {
+      "course_number": "BINF G4001",
+      "id": 6706,
+      "name": "INTRODUCTION TO COMPUTER APPLICATIONS IN HEALTH CARE"
+    },
+    {
+      "course_number": "E6998",
+      "id": 6718,
+      "name": "Search Engine Technology"
+    },
+    {
+      "course_number": "COMS E6998",
+      "id": 6719,
+      "name": "Topics in Computer Science:  Search Engine Technology"
+    },
+    {
+      "course_number": "ENGI E1006",
+      "id": 6732,
+      "name": "Introduction to Computer Science for Engineers\/Applied Scientists - Python"
+    },
+    {
+      "course_number": "COMS 6998",
+      "id": 6779,
+      "name": "Computer Vision and Machine Learning for Mobile Platforms"
+    },
+    {
+      "course_number": "COMS 6998",
+      "id": 6810,
+      "name": "Topics in Computer Science:  Social Networks"
+    },
+    {
+      "course_number": "COMS 4246",
+      "id": 6811,
+      "name": "Algorithms for Data Science"
+    },
+    {
+      "course_number": "COMS W4241",
+      "id": 6815,
+      "name": "Numerical Algorithms and Complexity"
+    }
+  ]
+}
+

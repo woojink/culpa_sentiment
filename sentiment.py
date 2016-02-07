@@ -1,4 +1,3 @@
-import csv
 import requests
 
 base_url_sentiment = "http://gateway-a.watsonplatform.net/calls/text/TextGetTextSentiment"
@@ -8,10 +7,10 @@ params = {	"apikey": "",
 
 def get_sentiment(params, review):
 	"""
-    Args:
-        params (dict): parameters for the Alchemy API
-        review (str): text of the API
-    """
+	Args:
+	    params (dict): parameters for the Alchemy API
+	    review (str): text of the API
+	"""
 	params['text'] = review
 	resp_sentiment = requests.get(base_url_sentiment, params=params)
 

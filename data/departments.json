@@ -1,0 +1,20 @@
+{
+  "nodes":[
+    {"avg": 0.21, "courses": "34", "id": 1, "name": "Computer Science", "angle":"5", "speed":"6"},
+    {"avg": -0.47, "courses": "14", "id": 2, "name": "Applied Physics", "angle":"22", "speed":"7"},
+    {"avg": 0.45, "courses": "24", "id": 3, "name": "Architecture", "angle":"43", "speed":"7"},
+    {"avg": 0.27, "courses": "14", "id": 4, "name": "Anthropology", "angle":"64", "speed":"8"},
+    {"avg": 0.43, "courses": "40", "id": 5, "name": "Business", "angle":"85", "speed":"7"},
+    {"avg": -0.38, "courses": "28", "id": 6, "name": "Economics", "angle":"116", "speed":"6"},
+    {"avg": 0.24, "courses": "10", "id": 7, "name": "Film", "angle":"137", "speed":"7"},
+    {"avg": 0.27, "courses": "30", "id": 8, "name": "SIPA", "angle":"158", "speed":"6"},
+    {"avg": 0.52, "courses": "17", "id": 9, "name": "Philosophy", "angle":"179", "speed":"9"},
+    {"avg": -0.24, "courses": "12", "id": 10, "name": "Religion", "angle":"200", "speed":"7"},
+    {"avg": 0.60, "courses": "15", "id": 11, "name": "Visual Arts", "angle":"231", "speed":"4"},
+    {"avg": -0.36, "courses": "19", "id": 12, "name": "Statistics", "angle":"252", "speed":"6"},
+    {"avg": 0.04, "courses": "8", "id": 13, "name": "Theater", "angle":"273", "speed":"4"},
+    {"avg": -0.02, "courses": "22", "id": 14, "name": "Medicine", "angle":"294", "speed":"5"},
+    {"avg": -0.42, "courses": "25", "id": 15, "name": "Chemical Engineering", "angle":"315", "speed":"6"},
+    {"avg": -0.21, "courses": "20", "id": 16, "name": "Civil Engineering", "angle":"336", "speed":"7"}
+  ]
+}
